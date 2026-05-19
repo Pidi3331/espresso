@@ -53,7 +53,7 @@
       "name": "Pressurise",
       "phase": "brew",
       "valve": 1,
-      "duration": 10,
+      "duration": 20,
       "temperature": 0,
       "transition": {
         "type": "ease-out",
@@ -77,11 +77,11 @@
       "name": "Ramp down",
       "phase": "brew",
       "valve": 1,
-      "duration": 12,
+      "duration": 20,
       "temperature": 0,
       "transition": {
         "type": "ease-in",
-        "duration": 12,
+        "duration": 20,
         "adaptive": false
       },
       "pump": {
