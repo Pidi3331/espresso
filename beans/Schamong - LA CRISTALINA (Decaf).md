@@ -52,9 +52,3 @@ Profil: noch nicht festgelegt – Röster-Rezept als Startpunkt, danach iteriere
 
 - **2026-05-27** – Start auf DF54: 13
 
-## Session-Log
-
-### 2026-05-27
-- Bohnen-Note angelegt, Eckdaten von kaffeeroester.de übernommen
-- Mahlgrad-Start DF54: 13, Röster-Rezept als Referenz (18,5 g → 42 ml @ 93 °C / 30 s)
-- Offen: passendes Profil wählen / tunen, Shot-Daten nachtragen
