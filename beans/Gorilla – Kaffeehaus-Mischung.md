@@ -1,4 +1,4 @@
-# Gorilla – Kaffeehaus-Mischung
+ # Gorilla – Kaffeehaus-Mischung
 
 Italienisch geprägter Kaffeehaus-Blend von Joerges/Gorilla (Obertshausen). Alltags-Espresso, der zum [Medium 18g 1:2](https://github.com/Pidi3331/espresso/blob/main/profiles/medium-18g-1-2.json) Profil gepairt wurde.
 
@@ -20,7 +20,7 @@ Italienisch geprägter Kaffeehaus-Blend von Joerges/Gorilla (Obertshausen). Allt
 
 | Mühle | Setting |
 |-------|---------|
-| **DF54** | 16 |
+| **DF54** | 15.5 |
 
 Profil: [Medium 18g 1:2](https://github.com/Pidi3331/espresso/blob/main/profiles/medium-18g-1-2.json) – 18 g → 36 g @ 93 °C
 
@@ -31,5 +31,6 @@ Profil: [Medium 18g 1:2](https://github.com/Pidi3331/espresso/blob/main/profiles
 |       |       |       |      |           |       |
 
 ## Anpassungshistorie Mahlgrad
-16
+new: 15.5
+old: 17
 
