@@ -9,7 +9,7 @@
       "name": "Pre-infusion",
       "phase": "preinfusion",
       "valve": 1,
-      "duration": 8,
+      "duration": 9,
       "temperature": 0,
       "transition": {
         "type": "instant",
