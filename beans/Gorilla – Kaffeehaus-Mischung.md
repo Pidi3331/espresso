@@ -20,7 +20,7 @@ Italienisch geprägter Kaffeehaus-Blend von Joerges/Gorilla (Obertshausen). Allt
 
 | Mühle | Setting |
 |-------|---------|
-| **DF54** | 15.5 |
+| **DF54** | 14 |
 
 Profil: [Medium 18g 1:2](https://github.com/Pidi3331/espresso/blob/main/profiles/medium-18g-1-2.json) – 18 g → 36 g @ 93 °C
 
@@ -31,6 +31,7 @@ Profil: [Medium 18g 1:2](https://github.com/Pidi3331/espresso/blob/main/profiles
 |       |       |       |      |           |       |
 
 ## Anpassungshistorie Mahlgrad
-new: 15.5
+new: 14
+old: 15.5
 old: 17
 
