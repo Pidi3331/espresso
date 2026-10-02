@@ -23,17 +23,18 @@ Prämierter Espresso-Blend (Deutsche Röstergilde) von Schamong Kaffee. Schokola
 | Parameter | Wert |
 |-----------|------|
 | Dosis | 18 g |
-| Yield | 45 g |
+| Yield | 45 ml |
 | Ratio | 1 : 2,5 |
 | Temperatur | 93 °C |
 | Zeit | 27 s |
 
+> ⚠️ Yield laut Röster in **ml**, nicht g. Auf der Waage ≈ 38–40 g (Crema rausgerechnet).
 
 ## Mein Setup
 
 | Mühle | Setting |
 |-------|---------|
-| **DF54** | <!-- nachtragen --> |
+| **DF54** | 14 → nächster Versuch **16** |
 
 Profil: **Fiorentino 18g 1:2.5** (noch nicht im Repo) – 18 g → 45 g @ 93 °C
 
@@ -48,8 +49,8 @@ Profil: **Fiorentino 18g 1:2.5** (noch nicht im Repo) – 18 g → 45 g @ 93 °C
 
 | Datum | Dosis | Yield | Zeit | Bewertung | Notiz |
 |-------|-------|-------|------|-----------|-------|
-| 2026-10-02 | 18 g | 7,2 g | 54,5 s | ❌ | Shot #245 – viel zu fein (~1 ml/s bei 9 bar, 1. Tropfen 28 s); Fill durch 2 bar Restdruck übersprungen → Profil gefixt |
+| 2026-10-02 | 18 g | 7,2 g | 54,5 s | ❌ | Shot #245, DF54: 14 – viel zu fein (~1 ml/s bei 9 bar, 1. Tropfen 28 s); Fill durch 2 bar Restdruck übersprungen → Profil gefixt |
 
 ## Anpassungshistorie Mahlgrad
 
-- **2026-10-02** – Shot #245 erstickt → deutlich gröber
+- **2026-10-02** – Start auf DF54: 14 (wie Gorilla) → Shot #245 erstickt → nächster Versuch 16
