@@ -27,12 +27,11 @@ Entkoffeinierter Espresso, Single Origin Kolumbien. Sugarcane-Decaf (chemiefrei,
 | Parameter | Wert |
 |-----------|------|
 | Dosis | 18,5 g |
-| Yield | 42 ml |
+| Yield | 42 g |
 | Ratio | 1 : 2,3 |
 | Temperatur | 93 °C |
 | Zeit | 30 s |
 
-> ⚠️ Yield laut Röster in **ml**, nicht g. Auf der Waage ≈ 40 g (Crema rausgerechnet).
 
 ## Mein Setup
 
