@@ -23,12 +23,11 @@ Prämierter Espresso-Blend (Deutsche Röstergilde) von Schamong Kaffee. Schokola
 | Parameter | Wert |
 |-----------|------|
 | Dosis | 18 g |
-| Yield | 45 ml |
+| Yield | 45 g |
 | Ratio | 1 : 2,5 |
 | Temperatur | 93 °C |
 | Zeit | 27 s |
 
-> ⚠️ Yield laut Röster in **ml**, nicht g. Auf der Waage ≈ 38–40 g (Crema rausgerechnet).
 
 ## Mein Setup
 
