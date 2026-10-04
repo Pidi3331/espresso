@@ -1,0 +1,105 @@
+{
+  "label": "Fiorentino 18g 1:2.5",
+  "type": "pro",
+  "description": "Medium-Dark Blend - Fill / Soak / Ramp / Decline - 18g -> 45g",
+  "temperature": 93,
+  "utility": false,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 10,
+      "temperature": 0,
+      "transition": {
+        "type": "instant",
+        "duration": 0,
+        "adaptive": false
+      },
+      "pump": {
+        "target": "flow",
+        "pressure": 0,
+        "flow": 6
+      },
+      "targets": [
+        {
+          "type": "pressure",
+          "operator": "gte",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Soak",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 10,
+      "temperature": 0,
+      "transition": {
+        "type": "ease-out",
+        "duration": 1,
+        "adaptive": false
+      },
+      "pump": {
+        "target": "pressure",
+        "pressure": 3,
+        "flow": 0
+      },
+      "targets": [
+        {
+          "type": "volumetric",
+          "operator": "gte",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": {
+        "type": "linear",
+        "duration": 6,
+        "adaptive": false
+      },
+      "pump": {
+        "target": "pressure",
+        "pressure": 9,
+        "flow": 0
+      },
+      "targets": [
+        {
+          "type": "volumetric",
+          "operator": "gte",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "name": "Extraction",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 40,
+      "temperature": 0,
+      "transition": {
+        "type": "ease-in",
+        "duration": 25,
+        "adaptive": false
+      },
+      "pump": {
+        "target": "pressure",
+        "pressure": 6,
+        "flow": 0
+      },
+      "targets": [
+        {
+          "type": "volumetric",
+          "operator": "gte",
+          "value": 44
+        }
+      ]
+    }
+  ]
+}
