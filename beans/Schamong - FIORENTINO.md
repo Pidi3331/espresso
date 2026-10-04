@@ -36,7 +36,7 @@ Prämierter Espresso-Blend (Deutsche Röstergilde) von Schamong Kaffee. Schokola
 |-------|---------|
 | **DF54** | **19** ✅ (14 und 16 zu fein) |
 
-Profil: **Fiorentino 18g 1:2.5** (noch nicht im Repo) – 18 g → 45 g @ 93 °C
+Profil: [Fiorentino 18g 1:2.5](https://github.com/Pidi3331/espresso/blob/main/profiles/fiorentino-18g-1-2-5.json) – 18 g → 45 g @ 93 °C
 
 | Phase | Mechanik | Exit |
 |-------|----------|------|
