@@ -34,7 +34,7 @@ Prämierter Espresso-Blend (Deutsche Röstergilde) von Schamong Kaffee. Schokola
 
 | Mühle | Setting |
 |-------|---------|
-| **DF54** | 14 → 16 → nächster Versuch **19** |
+| **DF54** | **19** ✅ (14 und 16 zu fein) |
 
 Profil: **Fiorentino 18g 1:2.5** (noch nicht im Repo) – 18 g → 45 g @ 93 °C
 
@@ -51,8 +51,10 @@ Profil: **Fiorentino 18g 1:2.5** (noch nicht im Repo) – 18 g → 45 g @ 93 °C
 |-------|-------|-------|------|-----------|-------|
 | 2026-10-02 | 18 g | 7,2 g | 54,5 s | ❌ | Shot #245, DF54: 14 – viel zu fein (~1 ml/s bei 9 bar, 1. Tropfen 28 s); Fill durch 2 bar Restdruck übersprungen → Profil gefixt |
 | 2026-10-03 | 18 g | 19,5 g | 67 s | ❌ | Shot #260, DF54: 16 – immer noch viel zu fein (1. Tropfen 29,8 s, ~0,5 g/s bei 6–9 bar), Stopp per Zeitlimit; Fill/Soak liefen jetzt korrekt |
+| 2026-10-04 | 18 g | 45,0 g | 47 s | ✅ 4/5 | Shot #262, DF54: 19 – ausgewogen. 1. Tropfen 20,6 s, ~1,9 g/s, Stopp per Waage. Druck nur ~7–7,5 bar (Pumpe am Limit). Kesseltemperatur stieg bis 100 °C (Ziel 93) → prüfen |
 
 ## Anpassungshistorie Mahlgrad
 
 - **2026-10-02** – Start auf DF54: 14 (wie Gorilla) → Shot #245 erstickt → nächster Versuch 16
 - **2026-10-03** – 16: Shot #260 19,5 g in 67 s, Flow muss ~×4 → nächster Versuch 19
+- **2026-10-04** – 19: Shot #262 45 g in 47 s, 4/5 ausgewogen → **Sweet Spot**
